@@ -1,0 +1,41 @@
+id: I445BD193
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:36:37.193394'
+last_modified: '2022-06-18T19:36:37.193407'
+parser: null
+source_metadata:
+  title: Chag lo Rin chen chos rgyals (b. 1447) Kālacakra lineage history
+  author: ཆག་ལོ་རིན་ཆེན་ཆོས་རྒྱལ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-10-16);
+    head entries and linebreaks encoded, revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was digitally published by བེ་རི་རིག་པའི་རྡོ་རྗེ།
+    (ed.), Tashi Choeling Buddhist Center (Charlottesville, VA); དུས་འཁོར་བརྒྱུད་པའི་རྟོགས་བརྗོད།
+
+    (Digital Text version/id: ངེས་དོན་སྒྲོན་མེ། ༢༩, uploaded 19 /09/ 2013). (src)'
+  - Text input:ནང་བསྟན་རིག་མཛོད་ངེས་དོན་དཔེ་ཚོགས་འཕྲུལ་དེབ་ལྟེ་གནས།, Tashi Choeling
+    Buddhist Center (tcbci)
+  - Editorial process:ནང་བསྟན་རིག་མཛོད་ངེས་དོན་དཔེ་ཚོགས་འཕྲུལ་དེབ་ལྟེ་གནས། (ntrd),
+    Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/468
+  bases:
+    f445:
+      title: Chag lo Rin chen chos rgyals (b. 1447) Kālacakra lineage history
+      order: 1
+      base_file: f445.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
